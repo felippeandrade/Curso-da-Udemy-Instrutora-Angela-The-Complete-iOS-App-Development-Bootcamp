@@ -1,8 +1,9 @@
 //
 //  ViewController.swift
-//  I am Rich
+//  I Am Rich
 //
-//  Created by R. Felippe L. Andrade on 23/02/22.
+//  Created by Angela Yu on 12/08/2019.
+//  Copyright © 2019 Angela Yu. All rights reserved.
 //
 
 import UIKit
