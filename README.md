@@ -1,6 +1,19 @@
 
 # iOS & Swift - The Complete iOS App Development Bootcamp - Created by Angela 
-- https://www.udemy.com/course/ios-13-app-development-bootcamp
+
+<p align=center>
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/logo01.png" width="300" /> 
+</p>
+
+<p align=center> https://www.udemy.com/course/ios-13-app-development-bootcamp </p>
+
+## Projetos:
+
+<p float="left">
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%2001%20modulo%2002%20I%20am%20Rich.png" width="150" />
+</p>
+
+# Conteúdo do Treinamento
 
 ### Modulo 01: 
 - Getting Started with iOS 13 and Swift 5.1
