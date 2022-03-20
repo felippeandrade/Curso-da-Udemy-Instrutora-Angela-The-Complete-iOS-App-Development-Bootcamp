@@ -20,6 +20,7 @@
 
 ### Modulo 02: 
 - Xcode Storyboards and Interface Builder
+- **[Projeto 01: App I am Rich](https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/tree/main/Modulo%2002/projetos)**
 
 ### Modulo 03: 
 - Xcode Storyboard and Interface Builder Challenge
