@@ -7,7 +7,7 @@
 
 <p align=center> https://www.udemy.com/course/ios-13-app-development-bootcamp </p>
 
-## Projetos:
+## Desafios:
 
 <p float="left">
   <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/app%2001%20modulo%2002%20I%20am%20Rich.png" width="150" />
@@ -20,7 +20,7 @@
 
 ### Modulo 02: 
 - Xcode Storyboards and Interface Builder
-- **[Projeto 01: App I am Rich](https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/tree/main/Modulo%2002/projetos)**
+- **[Desafio 01: App I am Rich](https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/tree/main/Modulo%2002/desafios)**
 
 ### Modulo 03: 
 - Xcode Storyboard and Interface Builder Challenge
