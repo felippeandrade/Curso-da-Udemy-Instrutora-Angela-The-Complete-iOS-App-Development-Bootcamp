@@ -1,100 +1,115 @@
 
 iOS & Swift - The Complete iOS App Development Bootcamp - Created by Angela - https://www.udemy.com/course/ios-13-app-development-bootcamp
 
-### Section 01: 
+### Modulo 01: 
 - Getting Started with iOS 13 and Swift 5.1
 
-### Section 02: 
+### Modulo 02: 
 - Xcode Storyboards and Interface Builder
 
-### Section 03: 
+### Modulo 03: 
 - Xcode Storyboard and Interface Builder Challenge
 
-### Section 04: 
+### Modulo 04: 
 - Swift Programming Basics - Collections, Constants & Variables
 
-### Section 05: 
+### Modulo 05: 
 - Swift Programming Basics Challenge
 
-### Section 06: 
+### Modulo 06: 
 - Auto Layout and Responsive UIs
 
-### Section 07: 
+### Modulo 07: 
 - Using and Understanding Apple Documentation
 
-### Section 08: 
+### Modulo 08: 
 - Intermediate Swift Programming - Control Flow and Optionals
 
-### Section 09: 
+### Modulo 09: 
 - iOS App Design Patterns and Code Structuring
 
-### Section 10: 
+### Modulo 10: 
 - iOS App Design Pattern Challenge
 
-### Section 11: 
+### Modulo 11: 
 - Advanced Swift Programming - Classes, Inheritance & Advanced Optionals
 
-### Section 12: 
+### Modulo 12: 
 - Advanced Swift Programming Challenge
 
-### Section 13: 
+### Modulo 13: 
 - Networking, JSON Parsing, APIs and Core Location
 
-### Section 14: 
+### Modulo 14: 
 - Networking and API Challenge
 
-### Section 15: 
+### Modulo 15: 
 - Firebase Cloud Firestore, TableViews and Cocoapod Dependencies
 
-### Section 16: 
+### Modulo 16: 
 - The Command Line and Terminal
 
-### Section 17: 
+### Modulo 17: 
 - SwiftUI and Declarative Programming
 
-### Section 18: 
+### Modulo 18: 
 - Git, GitHub and Version Control
 
-### Section 19: 
+### Modulo 19: 
 - Local Data Persistance - User Defaults, Core Data and Realm
 
-### Section 20: 
+### Modulo 20: 
 - In-App Purchases and Apple StoreKit
 
-### Section 21: 
+### Modulo 21: 
 - Advanced Swift Classroom - Part 1
 
-### Section 22: 
+### Modulo 22: 
 - Advanced Swift Classroom - Part 2
 
-### Section 23: 
+### Modulo 23: 
 - CoreML and Machine Learning
 
-### Section 24: 
+### Modulo 24: 
 - Advanced CoreML - CoreML Tools & Converting Models
 
-### Section 25: 
+### Modulo 25: 
 - CreateML - Building Your Own Machine Learning Model from Scratch
 
-### Section 26: 
+### Modulo 26: 
 - CreateML & Natural Language Processing (NLP)
 
-### Section 27: 
+### Modulo 27: 
 - ARKit & Augmented Reality Apps
 
-### Section 28: 
+### Modulo 28: 
 - Advanced ARKit
 
-### Section 29: 
+### Modulo 29: 
 - ARKit 2 and Live Tracking
 
-### Section 30: 
+### Modulo 30: 
 - ARKit 2 & Live Video
 
-### Section 31: 
+### Modulo 31: 
 - How to Submit Your App to the App Store
 
-### Section 32: 
+### Modulo 32: 
 - What's Next? How to Become a Pro iOS Developer
+
+### Modulo 33:
+- Optional: The Complete App Design Course
+
+### Modulo 34:
+- Optional: The Complete App Marketing Course
+
+### Modulo 35:
+- Optional: The Complete App Marketing Course
+
+### Modulo 36:
+- Ask Angela Anything
+
+### Modulo 37:
+- Optional Module: How to Make an App from Beginning to End
 
 
