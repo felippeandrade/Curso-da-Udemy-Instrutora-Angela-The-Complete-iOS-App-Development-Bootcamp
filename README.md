@@ -10,7 +10,7 @@
 ## Projetos:
 
 <p float="left">
-  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%2001%20modulo%2002%20I%20am%20Rich.png" width="150" />
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/app%2001%20modulo%2002%20I%20am%20Rich.png" width="150" />
 </p>
 
 # Conteúdo do Treinamento
