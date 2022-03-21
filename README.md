@@ -10,7 +10,8 @@
 ## Desafios:
 
 <p float="left">
-  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/app%2001%20modulo%2002%20I%20am%20Rich.png" width="150" />
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/app%2001%20modulo%2002%20I%20am%20Rich.png" width="149" />
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/app%2002%20modulo%2003%20I%20am%20Poor.png" width="150" />
 </p>
 
 # Conteúdo do Treinamento
@@ -24,6 +25,7 @@
 
 ### Modulo 03: 
 - Xcode Storyboard and Interface Builder Challenge
+- **[Desafio 02: App I am Poor](https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/tree/main/Modulo%2003/desafios/I%20Am%20Poor)**
 
 ### Modulo 04: 
 - Swift Programming Basics - Collections, Constants & Variables
