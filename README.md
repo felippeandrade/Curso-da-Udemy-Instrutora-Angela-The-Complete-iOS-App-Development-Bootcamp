@@ -2,7 +2,7 @@
 # iOS & Swift - The Complete iOS App Development Bootcamp - Created by Angela 
 
 <p align=center>
-  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/logo01.png" width="300" /> 
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/a-logo01.png" width="300" /> 
 </p>
 
 <p align=center> https://www.udemy.com/course/ios-13-app-development-bootcamp </p>
@@ -10,8 +10,20 @@
 ## Desafios:
 
 <p float="left">
-  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/app%2001%20modulo%2002%20I%20am%20Rich.png" width="149" />
-  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/app%2002%20modulo%2003%20I%20am%20Poor.png" width="150" />
+  
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2002%20-%20I%20am%20Rich.png" width="149" />
+  
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2003%20-%20I%20am%20Poor.png" width="150" />
+  
+ <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2004%20-%20Diceer.png" width="150" />
+
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2005%20-%20Magic%208%20Ball.png" width="150" />
+  
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2006%20-%2001%20-%20AutoLayout%20.png" width="150" />
+  
+  <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2006%20-%2002%20-%20Calculator.png" width="150" />
+  
+  
 </p>
 
 # Conteúdo do Treinamento
