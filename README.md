@@ -23,7 +23,7 @@
   
   <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2006%20-%2002%20-%20Calculator.png" width="150" />
   
-   <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/development/imagens/desafio%20modulo%2007%20-%20Xylophone.png" width="150" />
+   <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/dev/imagens/desafio%20modulo%2007%20-%20Xylophone.png" width="150" />
   
 </p>
 
