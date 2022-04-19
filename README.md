@@ -27,7 +27,7 @@
   
 </p>
 
-# Conteúdo do Treinamento
+# Conteúdo do Curso
 
 ### Modulo 01: 
 - 
