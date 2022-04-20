@@ -25,6 +25,8 @@
   
    <img src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2007%20-%20Xylophone.png" width="150" />
   
+  <img src="https://github.com/felippeandrade/Curso-da-Udemy-Instrutora-Angela-The-Complete-iOS-App-Development-Bootcamp/blob/main/imagens/desafio%20modulo%2008%20-%20EggTimer.png" width="148" />
+
 </p>
 
 # Conteúdo do Curso
