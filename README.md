@@ -27,6 +27,10 @@
   
   <img src="https://github.com/felippeandrade/Curso-da-Udemy-Instrutora-Angela-The-Complete-iOS-App-Development-Bootcamp/blob/main/imagens/desafio%20modulo%2008%20-%20EggTimer.png" width="148" />
 
+  <img src=" " width="148" />
+
+  <img src=" " width="148" />
+
 </p>
 
 # Conteúdo do Curso
