@@ -9,16 +9,13 @@
 
 ## Desafios:
 
-Desafio 01 | Desafio 02 | Desafio 03 | Desafio 04 | Desafio 05  | Desafio 06 
----|---|---|---|---|---|
-<img width="170" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2002%20-%20I%20am%20Rich.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2003%20-%20I%20am%20Poor.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2004%20-%20Diceer.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2005%20-%20Magic%208%20Ball.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2006%20-%2001%20-%20AutoLayout%20.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2006%20-%2002%20-%20Calculator.png">
+Desafio 01 | Desafio 02 | Desafio 03 | Desafio 04 | Desafio 05
+---|---|---|---|---|
+<img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2002%20-%20I%20am%20Rich.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2003%20-%20I%20am%20Poor.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2004%20-%20Diceer.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2005%20-%20Magic%208%20Ball.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2006%20-%2001%20-%20AutoLayout%20.png"> 
 
-Desafio 07 | Desafio 08 | Desafio 09
----|---|---|
-<img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2007%20-%20Xylophone.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/Curso-da-Udemy-Instrutora-Angela-The-Complete-iOS-App-Development-Bootcamp/blob/main/imagens/desafio%20modulo%2008%20-%20EggTimer.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/Curso-da-Udemy-Instrutora-Angela-The-Complete-iOS-App-Development-Bootcamp/blob/main/imagens/desafio%20modulo%2009%20-%20Quizzler%2001.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/Curso-da-Udemy-Instrutora-Angela-The-Complete-iOS-App-Development-Bootcamp/blob/main/imagens/desafio%20modulo%2009%20-%20Quizzler%2002.png">
-
-
-
+Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09
+---|---|---|---|
+<img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2006%20-%2002%20-%20Calculator.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/iOS-Swift-The-Complete-iOS-App-Development-Bootcamp-Angela/blob/main/imagens/desafio%20modulo%2007%20-%20Xylophone.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/Curso-da-Udemy-Instrutora-Angela-The-Complete-iOS-App-Development-Bootcamp/blob/main/imagens/desafio%20modulo%2008%20-%20EggTimer.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/Curso-da-Udemy-Instrutora-Angela-The-Complete-iOS-App-Development-Bootcamp/blob/main/imagens/desafio%20modulo%2009%20-%20Quizzler%2001.png"> | <img width="150" height="300" src="https://github.com/felippeandrade/Curso-da-Udemy-Instrutora-Angela-The-Complete-iOS-App-Development-Bootcamp/blob/main/imagens/desafio%20modulo%2009%20-%20Quizzler%2002.png">
 
 # Conteúdo do Curso
 
