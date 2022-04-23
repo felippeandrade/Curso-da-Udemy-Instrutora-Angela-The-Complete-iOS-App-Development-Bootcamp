@@ -39,9 +39,9 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
 - Variables, Constants and Arrays 
 - Randomisation and Randomise Images
 - Range Operator
-- **[Exercício 00: Variables]()**
-- **[Exercício 00: Arrays]()**
-- **[Exercício 00: Randomisation]()**
+- **[Exercício 01: Variables]()**
+- **[Exercício 02: Arrays]()**
+- **[Exercício 03: Randomisation]()**
   + **[Desafio 03: App Diceer]()**
 
 ### Modulo 05:
@@ -61,8 +61,8 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
 - Linking Multiple Buttons to the Same IBAction
 - Functions with Inputs and Type Inference
 - Sounds
-- **[Exercício 00: Functions01]()**
-- **[Exercício 00: Functions02]()**
+- **[Exercício 04: Functions01]()**
+- **[Exercício 05: Functions02]()**
   + **[Desafio 07: App Xylophone]()**
 
 ### Modulo 08: 
@@ -72,8 +72,8 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
 - Timer
 - Progress View
 - Debug
-- **[Exercício 00: Dictionaries]()**
-- **[Exercício 00: Optionals]()**
+- **[Exercício 06: Dictionaries]()**
+- **[Exercício 07: Optionals]()**
   + **[Desafio 08: App EggTimer]()**
 
 ### Modulo 09: 
@@ -84,8 +84,8 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
 - Functions with Outputs and Return Types
 - Immutability
 - Mutating Functions
-- **[Exercício 00: Structures]()**
-- **[Exercício 00: Functions03]()**
+- **[Exercício 08: Structures]()**
+- **[Exercício 09: Functions03]()**
   + **[Desafio 09: App Quizzler - True/False]()**
   + **[Desafio 10: App Quizzler - MultipleChoice]()**
 
