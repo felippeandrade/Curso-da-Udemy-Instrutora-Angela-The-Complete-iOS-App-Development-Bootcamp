@@ -22,7 +22,6 @@ struct QuizBrain {
         return quiz[questionNumber].text
     }
     
-    //Need a way of fetching the answer choices.
     func getAnswers() -> [String] {
         return quiz[questionNumber].answers
     }
@@ -31,11 +30,11 @@ struct QuizBrain {
         return Float(questionNumber) / Float(quiz.count)
     }
     
-    mutating func getScore() -> Int {
+    func getScore() -> Int {
         return score
     }
     
-     mutating func nextQuestion() {
+    mutating func nextQuestion() {
         
         if questionNumber + 1 < quiz.count {
             questionNumber += 1
@@ -45,7 +44,6 @@ struct QuizBrain {
     }
     
     mutating func checkAnswer(userAnswer: String) -> Bool {
-        //Need to change answer to rightAnswer here. 
         if userAnswer == quiz[questionNumber].rightAnswer {
             score += 1
             return true

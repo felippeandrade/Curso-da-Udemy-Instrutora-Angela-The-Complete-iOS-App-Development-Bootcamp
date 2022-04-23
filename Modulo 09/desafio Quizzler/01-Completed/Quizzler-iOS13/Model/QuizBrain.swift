@@ -28,11 +28,11 @@ struct QuizBrain {
         return Float(questionNumber + 1) / Float(quiz.count)
     }
     
-    mutating func getScore() -> Int {
+    func getScore() -> Int {
         return score
     }
     
-     mutating func nextQuestion() {
+    mutating func nextQuestion() {
         
         if questionNumber + 1 < quiz.count {
             questionNumber += 1
