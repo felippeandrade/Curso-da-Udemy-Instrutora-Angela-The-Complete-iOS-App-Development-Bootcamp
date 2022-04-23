@@ -19,7 +19,7 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
 # Conteúdo do Curso
 
 ### Módulo 01: 
-- Introdução
+- Introduction
 
 ### Módulo 02: 
 - Storyboard
