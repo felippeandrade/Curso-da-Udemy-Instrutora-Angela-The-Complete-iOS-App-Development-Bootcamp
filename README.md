@@ -1,4 +1,3 @@
-
 # Curso da Udemy - Instrutora Angela - The Complete iOS App Development Bootcamp
 
 <p align=center>
@@ -19,20 +18,20 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
 
 # Conteúdo do Curso
 
-### Modulo 01: 
+### Módulo 01: 
 - Introdução
 
-### Modulo 02: 
+### Módulo 02: 
 - Storyboard
 - Image Assets and App Icon
   + **[Desafio 01: App I am Rich]()**
 
-### Modulo 03:
+### Módulo 03:
 - Storyboard
 - Label, Image View and App Icon
   + **[Desafio 02: App I am Poor]()**
 
-### Modulo 04: 
+### Módulo 04: 
 - IBActions
 - Naming Conventions and Commenting
 - String Interpolation
@@ -44,10 +43,10 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
 - **[Exercício 03: Randomisation]()**
   + **[Desafio 03: App Diceer]()**
 
-### Modulo 05:
+### Módulo 05:
 - + **[Desafio 04: App Magic 8 Ball]()**
 
-### Modulo 06: 
+### Módulo 06: 
 - Auto Layout
 - Size Classes and Safe Area
 - Alignment and Pinning
@@ -56,7 +55,7 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
   + **[Desafio 05: App AutoLayout]()**
   + **[Desafio 06: App Calculator]()**
 
-### Modulo 07: 
+### Módulo 07: 
 - Functions and Scope
 - Linking Multiple Buttons to the Same IBAction
 - Functions with Inputs and Type Inference
@@ -65,7 +64,7 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
 - **[Exercício 05: Functions02]()**
   + **[Desafio 07: App Xylophone]()**
 
-### Modulo 08: 
+### Módulo 08: 
 - If-Else and Switch
 - Dictionaries
 - Optionals
@@ -76,7 +75,7 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
 - **[Exercício 07: Optionals]()**
   + **[Desafio 08: App EggTimer]()**
 
-### Modulo 09: 
+### Módulo 09: 
 - 2-Dimensional Arrays
 - Structures, Methods and Properties
 - ProgressView
@@ -89,12 +88,7 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
   + **[Desafio 09: App Quizzler - True/False]()**
   + **[Desafio 10: App Quizzler - MultipleChoice]()**
 
-### Modulo 10: 
+### Módulo 10: 
 - 
 
-### Modulo 11: 
-
-
-
-
-
+### Módulo 11:
