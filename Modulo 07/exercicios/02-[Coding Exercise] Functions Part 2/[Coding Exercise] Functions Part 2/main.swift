@@ -1,10 +1,11 @@
 import Foundation
 
 func calculator() {
-    print("Digite primeiro Numero")
-    let a = Int(readLine()!)! //First input //le entrada no console
-    print("Digite primeiro Numero")
-    let b = Int(readLine()!)! //Second input //le entrada no console
+    print("Digite o primeiro Número")
+    let a = Int(readLine()!)! //First input //lê entrada no console
+    
+    print("Digite o segundo Número")
+    let b = Int(readLine()!)! //Second input //lê entrada no console
     //ou
     //let a = 3 //First input
     //let b = 4 //Second input
