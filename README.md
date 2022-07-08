@@ -89,6 +89,6 @@ Desafio 06 |Desafio 07 | Desafio 08 | Desafio 09 | Desafio 10
   + **[Desafio 10: App Quizzler - MultipleChoice]()**
 
 ### Módulo 10: 
-- 
+- Padrão de projeto
 
-### Módulo 11:
+
